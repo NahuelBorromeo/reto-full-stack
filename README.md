@@ -28,4 +28,6 @@ Y en la terminal nos aparecerá el puerto dónde se levantó (http://localhost:5
 
 Ahí podremos ver nuestro proyecto y realizar las pruebas.
 
+(Las ventas generadas por nuestro Script SQL tienen fechas del 5 de agosto al 10 de agosto del 2023)
+
 
